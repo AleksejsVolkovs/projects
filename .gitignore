@@ -1,0 +1,10 @@
+# This is a sample .gitignore file
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
